@@ -1,2 +1,2 @@
-# Jo-o-Paulo
+# Desenvolvimento em Python
 Aplicações Python
