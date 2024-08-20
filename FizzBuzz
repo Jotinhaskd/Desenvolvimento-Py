@@ -1,0 +1,10 @@
+import random
+
+numero = random.randrange(0,100)
+
+if (numero %2 == 0):
+    print("fizz")
+    print(numero)
+else:
+    print("Buzz")
+    print(numero)
